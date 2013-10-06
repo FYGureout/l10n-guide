@@ -46,6 +46,8 @@ on the English name.
      - Galego
    * - German
      - Deutsch
+   * - Hungarian
+     - magyar
    * - Icelandic
      - Íslenska
    * - Indonesian
